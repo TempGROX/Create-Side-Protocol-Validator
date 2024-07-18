@@ -30,6 +30,8 @@ sided tx staking create-validator \
 --min-self-delegation="400000000" \
 --fees="50000uside"
 ```
+To see the value of each flag, first just run this command with the **--help** flag
+
 
 # The end!
 If you liked this guide, please go to all my social networks)
